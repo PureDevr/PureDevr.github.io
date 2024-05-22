@@ -729,6 +729,13 @@ section {
   right: 15px;
 }
 
+.portfolio .portfolio-container a {
+  color:rgb(143, 100, 0);
+}
+
+.portfolio .portfolio-container a:hover {
+  color: rgb(0, 0, 0);
+}
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
